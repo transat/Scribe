@@ -1,7 +1,7 @@
 common:
   application_name: "Scribe"
   application_name_short: "Scribe"
-  release_name: "Gilgamesh"
+  release_name: "RIL"
   location: "0.0.0.0:3000/"
 
 development:
