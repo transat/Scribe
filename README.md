@@ -1,4 +1,4 @@
-# Welcome to Scribe
+# Welcome to Scribe!
 
 Scribe is a framework for generating crowd sources transcriptions of image based documents.
 It provides a system for generating templates which combined with a magnification tool guide 
