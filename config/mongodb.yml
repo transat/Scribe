@@ -8,8 +8,7 @@ test:
   <<: *global_settings
 
 production:
-  sessions:
-    default:
-      uri: <%= ENV['MONGOLAB_URI'] %>
+  host: 127.0.0.1
+  database: scribe-production
 
   <<: *global_settings
